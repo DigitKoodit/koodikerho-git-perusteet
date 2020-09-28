@@ -9,6 +9,6 @@ Matikka on kivaa ja Hirvensalo on jees
 
 # Tehtävä 2
 
-Fourierit on helppoa ja kivaa
+Olikin vain matriisin pyörittelyä
 
-> Tehtävään ei ole vastausta
+> Pyöritä 90 astetta oikealle
