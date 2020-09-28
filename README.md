@@ -2,4 +2,6 @@
 
 Koodikerho käytiin Digitin Discrodin `kerhokannulla`.
 
-Mukana oli ainakin 16 fuksia ja 14 on joskus käyttänyt gittiä.
+Mukana oli ainakin 16 fuksia ja 15 on joskus käyttänyt gittiä.
+
+Ja lopuksi puskettiin tämä versio Githubin kautta versionhallintaan.
